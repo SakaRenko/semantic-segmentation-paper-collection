@@ -3,6 +3,7 @@
 ## 2022
 | Title | Venue | Backbone | PDF | CODE |
 | :-----|:-----:|:---:|:---:|:----:|
+|Vision Transformer Adapter for Dense Prediction|arxiv|ViT|https://arxiv.org/pdf/2205.08534.pdf|https://github.com/czczup/ViT-Adapter|
 |Masked-attention Mask Transformer for Universal Image Segmentation|CVPR|Swin-transformer|https://arxiv.org/pdf/2112.01527.pdf|https://github.com/facebookresearch/Mask2Former
 |MPViT : Multi-Path Vision Transformer for Dense Prediction|CVPR|MPViT|https://arxiv.org/pdf/2112.11010.pdf|https://git.io/MPViT|
 |Revisiting Multi-Scale Feature Fusion for Semantic Segmentation|--|EfficientNet|https://arxiv.org/pdf/2203.12683.pdf|--|
